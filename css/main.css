@@ -1,0 +1,21 @@
+body{
+	background: url(../img/background.jpg);
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	color: #fff;
+	font-weight: bold;
+}
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+	height: 300px;
+	width: 400px;
+}
+.black_box{
+	background: #000;
+	width: 50vw;
+}
+.content{
+	padding: 20px;
+}
