@@ -93,7 +93,7 @@ function checkForMatch() {
 		cards[optionOneId].setAttribute('src', 'img/malevic.png')
 		cards[optionTwoId].setAttribute('src', 'img/malevic.png')
 		function showMessage() {
-			message.textContent = 'Did did you finish school? '
+			message.textContent = 'Did you finish school? '
 		}
 		showMessage()
 	}
